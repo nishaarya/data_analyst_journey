@@ -1,45 +1,50 @@
-A
-A/B testing: The process of testing two variations of the same web page to determine which page is more successful at attracting user traffic and generating revenue
-Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied
-Access control: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet 
-Accuracy: The degree to which data conforms to the actual entity being measured or described
-Action-oriented question: A question whose answers lead to change 
-Administrative metadata: Metadata that indicates the technical source of a digital asset
-Aesthetic (R): A visual property of an object in a plot 
-Agenda: A list of scheduled appointments 
-Aggregation: The process of collecting or gathering many separate pieces into a whole
-Algorithm: A process or set of rules followed for a specific task
-Aliasing: Temporarily naming a table or column in a query to make it easier to read and write
-Alternative text: Text that provides an alternative to non-text content, such as images and videos
-Analytical skills: Qualities and characteristics associated with using facts to solve problems
-Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
-Annotation: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
-Anscombe’s quartet: Four datasets that have nearly identical summary statistics but contain different plotted values
-Area chart: A data visualization that uses individual data points for a changing variable connected by a continuous line with a filled in area underneath
-Argument (R): Information needed by a function in R in order to run
-Arithmetic operator: An operator used to perform basic math operations such as addition, subtraction, multiplication, and division
-Array: A collection of values in spreadsheet cells
-Assignment operator: An operator used to assign values to variables and vectors
-Attribute: A characteristic or quality of data used to label a column in a table
-Audio file: Digitized audio storage usually in an MP3, AAC, or other compressed format
-AVERAGE: A spreadsheet function that returns an average of the values from a selected range
-AVERAGEIF: A spreadsheet function that returns the average of all cell values from a given range that meet a specified condition 
-B
-Bad data source: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC) 
-Balance: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
-Bar graph: A data visualization that uses size to contrast and compare two or more values
-Bias: A conscious or subconscious preference in favor of or against a person, group of people, or thing
-Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems 
-Boolean data: A data type with only two possible values, usually true or false
-Borders: Lines that can be added around two or more cells on a spreadsheet
-Box plot: A data visualization that displays the distribution of values along an x-axis
-Bubble chart: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size 
-Bullet graph: A data visualization that displays data as a horizontal bar chart moving toward a desired value 
-Business metric: A standard of measurement used to solve a business task
-Business task: The question or problem data analysis resolves for a business
-C
-C# : An object-oriented programming language used to create games and mobile apps in the .NET open source developer platform
-C++: An extension of the C programming language that is used to create console games, such as those for Xbox
+#A
+
+*A/B testing: The process of testing two variations of the same web page to determine which page is more successful at attracting user traffic and generating revenue
+*Absolute reference: A reference within a function that is locked so that rows and columns won’t change if the function is copied
+*Access control: Features such as password protection, user permissions, and encryption that are used to protect a spreadsheet 
+*Accuracy: The degree to which data conforms to the actual entity being measured or described
+*Action-oriented question: A question whose answers lead to change 
+*Administrative metadata: Metadata that indicates the technical source of a digital asset
+*Aesthetic (R): A visual property of an object in a plot 
+*Agenda: A list of scheduled appointments 
+*Aggregation: The process of collecting or gathering many separate pieces into a whole
+*Algorithm: A process or set of rules followed for a specific task
+*Aliasing: Temporarily naming a table or column in a query to make it easier to read and write
+*Alternative text: Text that provides an alternative to non-text content, such as images and videos
+*Analytical skills: Qualities and characteristics associated with using facts to solve problems
+*Analytical thinking: The process of identifying and defining a problem, then solving it by using data in an organized, step-by-step manner
+*Annotation: Text that briefly explains data or helps focus the audience on a particular aspect of the data in a visualization
+*Anscombe’s quartet: Four datasets that have nearly identical summary statistics but contain different plotted values
+*Area chart: A data visualization that uses individual data points for a changing variable connected by a continuous line with a filled in area underneath
+*Argument (R): Information needed by a function in R in order to run
+*Arithmetic operator: An operator used to perform basic math operations such as addition, subtraction, multiplication, and division
+*Array: A collection of values in spreadsheet cells
+*Assignment operator: An operator used to assign values to variables and vectors
+*Attribute: A characteristic or quality of data used to label a column in a table
+*Audio file: Digitized audio storage usually in an MP3, AAC, or other compressed format
+*AVERAGE: A spreadsheet function that returns an average of the values from a selected range
+*AVERAGEIF: A spreadsheet function that returns the average of all cell values from a given range that meet a specified condition 
+
+#B
+
+*Bad data source: A data source that is not reliable, original, comprehensive, current, and cited (ROCCC) 
+*Balance: The design principle of creating aesthetic appeal and clarity in a data visualization by evenly distributing visual elements
+*Bar graph: A data visualization that uses size to contrast and compare two or more values
+*Bias: A conscious or subconscious preference in favor of or against a person, group of people, or thing
+*Big data: Large, complex datasets typically involving long periods of time, which enable data analysts to address far-reaching business problems 
+*Boolean data: A data type with only two possible values, usually true or false
+*Borders: Lines that can be added around two or more cells on a spreadsheet
+*Box plot: A data visualization that displays the distribution of values along an x-axis
+*Bubble chart: A data visualization that displays individual data points as bubbles, comparing numeric values by their relative size 
+*Bullet graph: A data visualization that displays data as a horizontal bar chart moving toward a desired value 
+*Business metric: A standard of measurement used to solve a business task
+*Business task: The question or problem data analysis resolves for a business
+
+#C
+
+*C# : An object-oriented programming language used to create games and mobile apps in the .NET open source developer platform
+*C++: An extension of the C programming language that is used to create console games, such as those for Xbox
 Calculated field: A new field within a pivot table that carries out certain calculations based on the values of other fields
 Calculus: A branch of mathematics that involves the study of rates of change and the changes between values that are related by a function 
 CASE: A SQL statement that returns records that meet conditions by including an if/then statement in a query
